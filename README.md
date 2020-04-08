@@ -3,13 +3,13 @@ This is a webpage containing information about frisbee, made with HTML5,CSS3
 
 ---
 
-#####Main Features:
+##### Main Features:
 * Resizable/Adjustable web page for different screen ratios
 * Interactive table design, Navigation bar with CSS
 * Uses Flexbox
 
 ---
-#####Demo:
+##### Demo:
 
 ![GIF demo](https://media.giphy.com/media/Q7d3waqlYxBKUTe7Eb/giphy.gif)
 
